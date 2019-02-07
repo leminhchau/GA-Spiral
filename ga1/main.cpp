@@ -1,4 +1,4 @@
-// Group Assingment 1
+// Group Assingment 1 for Data Structures class
 // Name: Darien Favorite
 // Name: Chau Le
 // Name: Ai Nguyen
